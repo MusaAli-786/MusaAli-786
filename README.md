@@ -41,4 +41,4 @@ building hands-on skills through homelabs, certifications, and real projects.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([your-link](https://www.linkedin.com/in/musa-ali-a38409200/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/musa-ali-a38409200/)
