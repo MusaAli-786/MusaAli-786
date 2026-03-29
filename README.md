@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Musa 👋
 
-<!--
-**MusaAli-786/MusaAli-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> IT Infrastructure & Cloud | Ontario, Canada
 
-Here are some ideas to get you started:
+I'm an electrician (309A) transitioning into IT infrastructure and cloud,
+building hands-on skills through homelabs, certifications, and real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Tools |
+|----------|-------|
+| OS | Windows Server, Ubuntu |
+| Cloud | Microsoft Azure (AZ-900 → AZ-104) |
+| Scripting | PowerShell, Python |
+| Networking | pfSense, VirtualBox, TCP/IP |
+| Identity | Active Directory, Microsoft 365, Intune |
+
+---
+
+## 📜 Certifications (In Progress)
+
+- [ ] Google IT Support Certificate
+- [ ] CompTIA A+
+- [ ] CompTIA Network+
+- [ ] Microsoft AZ-900
+- [ ] Microsoft AZ-104
+
+---
+
+## 📁 Projects
+
+| Project | Description | Tools Used |
+|---------|-------------|------------|
+| 🏠 [Home Lab Setup](link) | pfSense router + Windows Server VM | VirtualBox, pfSense |
+| ⚡ [PowerShell Scripts](link) | Automation scripts for sysadmin tasks | PowerShell |
+| ☁️ [Azure Lab](link) | VM deployment and resource management | Azure, ARM |
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-link)
