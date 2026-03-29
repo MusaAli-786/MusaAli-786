@@ -2,7 +2,7 @@
 
 > IT Infrastructure & Cloud | Ontario, Canada
 
-I'm an electrician (309A) transitioning into IT infrastructure and cloud,
+I'm a previous electrician (309A) transitioning into IT infrastructure and cloud,
 building hands-on skills through homelabs, certifications, and real projects.
 
 ---
