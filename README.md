@@ -1,4 +1,4 @@
-# Hi, I'm Musa 👋
+# Hi, I'm Musa 
 
 > IT Infrastructure & Cloud | Ontario, Canada
 
@@ -24,8 +24,8 @@ building hands-on skills through homelabs, certifications, and real projects.
 - [ ] Google IT Support Certificate
 - [ ] CompTIA A+
 - [ ] CompTIA Network+
-- [ ] Microsoft AZ-900
 - [ ] Microsoft AZ-104
+- [ ] M365
 
 ---
 
