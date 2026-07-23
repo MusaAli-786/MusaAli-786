@@ -1,44 +1,25 @@
-# Hi, I'm Musa 
+Hi, I'm Musa 👋
 
-> IT Infrastructure & Cloud | Ontario, Canada
+IT Support & Networking | Ontario, Canada
 
-I'm a previous electrician (309A) transitioning into IT infrastructure and cloud,
-building hands-on skills through homelabs, certifications, and real projects.
+Former electrician (309A) transitioning into IT, building hands-on infrastructure skills through a structured 8-project homelab, real certifications, and documented, tested work — not just tutorials followed.
 
----
+🎓 Certifications
+✅ Google IT Support Professional Certificate
+🔄 CompTIA Network+ — in progress
+🛠️ Tech Stack
+Category	Tools
+Virtualization	VMware Workstation Pro
+OS	Windows Server 2022, Ubuntu Server
+Networking	TCP/IP, VLANs/subnetting, DNS, DHCP, RRAS, firewall policy
+Directory Services	Active Directory, Group Policy (in progress)
+Practices	Git/GitHub, Jira, technical documentation
+📂 Featured Project
 
-## 🛠️ Tech Stack & Tools
+IT Homelab Portfolio — an 8-project enterprise-style build covering networking, Active Directory, Linux services, packet analysis, firewalls/IDS, Python automation, and SIEM/SOC.
 
-| Category | Tools |
-|----------|-------|
-| OS | Windows Server, Ubuntu |
-| Cloud | Microsoft Azure (AZ-900 → AZ-104) |
-| Scripting | PowerShell, Python |
-| Networking | pfSense, VirtualBox, TCP/IP |
-| Identity | Active Directory, Microsoft 365, Intune |
+✅ Project 1 — Multi-Subnet Enterprise Network: designed and built 4 isolated VLANs, configured a Windows Server to route between them (RRAS), and implemented firewall policy to enforce segmentation — validated with real connectivity testing, not just configuration. Full write-up →
+🔄 Projects 2–8 in progress: Active Directory, Linux services, Wireshark analysis, pfSense firewall/VLANs, Python automation, Wazuh SIEM, troubleshooting
+📫 Connect
 
----
-
-## 📜 Certifications (In Progress)
-
-- [ ] Google IT Support Certificate
-- [ ] CompTIA A+
-- [ ] CompTIA Network+
-- [ ] Microsoft AZ-104
-- [ ] M365
-
----
-
-## 📁 Projects
-
-| Project | Description | Tools Used |
-|---------|-------------|------------|
-| 🏠 [Home Lab Setup](link) | pfSense router + Windows Server VM | VirtualBox, pfSense |
-| ⚡ [PowerShell Scripts](link) | Automation scripts for sysadmin tasks | PowerShell |
-| ☁️ [Azure Lab](link) | VM deployment and resource management | Azure, ARM |
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/musa-ali-a38409200/)
+[LinkedIn](https://www.linkedin.com/in/musa-ali-a38409200/)
